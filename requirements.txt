@@ -1,0 +1,2 @@
+holoviews=1.13.2
+bokeh=2.0.2
