@@ -1,4 +1,4 @@
-diversify-caltech
+caltechs-diversity
 =================
 
 A work in progress... 
@@ -25,7 +25,7 @@ inspiration.
 
 ## Current plots
 
-* [Overall](/p_dash.html)
-* [UG v G](/p_level_dash.html)
+* [Overall](https://shyam.saladi.org/caltechs-diversity/p_dash.html)
+* [UG v G](https://shyam.saladi.org/caltechs-diversity/p_level_dash.html)
 
 
