@@ -1,4 +1,4 @@
-caltechs-diversity
+diversity-dashboard
 =================
 
 A work in progress... 
@@ -25,7 +25,7 @@ inspiration.
 
 ## Current plots
 
-* [Overall](https://shyam.saladi.org/caltechs-diversity/p_dash.html)
-* [UG v G](https://shyam.saladi.org/caltechs-diversity/p_level_dash.html)
+* [Overall](https://caltech.github.io/diversity-dashboard/p_dash.html)
+* [UG v G](https://caltech.github.io/diversity-dashboard/p_level_dash.html)
 
 
